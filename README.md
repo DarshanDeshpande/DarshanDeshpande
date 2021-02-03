@@ -6,9 +6,9 @@
 
 - 🌱 I’m interested in Spectral and Temporal Restoration and Active Learning techniques
 
-- 📝 I write articles on [Medium](https://medium.com/@darshan1504)
+- 📝 I write articles on **[Medium](https://medium.com/@darshandeshpande)**
 
-- 📫 Reach me at: darshan1504@gmail.com
+- 📫 Reach me at: **darshan1504@gmail.com**
 
 - ⚡ Fun fact: I am a multicopter enthusiast
 
