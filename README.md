@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshan!</h1>
-<h3 align="center">A Machine Learning Engineer and a Mentor at TFUG Mumbai</h3>
+<h3 align="center">ML Researcher and a Mentor at TFUG Mumbai</h3>
 <br>
 
 - 🔭 I’m currently working on **[Scrapera](https://github.com/DarshanDeshpande/Scrapera)**
