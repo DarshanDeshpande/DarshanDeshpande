@@ -2,11 +2,11 @@
 <h3 align="center">ML Researcher and a Mentor at TFUG Mumbai</h3>
 <br>
 
-- 🔭 I’m currently working on **[Scrapera](https://github.com/DarshanDeshpande/Scrapera)**
+- 🔭 I’m currently working on **[Reproducing Research Papers](https://github.com/DarshanDeshpande/tf-paper-implementations)** and **[Scrapera](https://github.com/DarshanDeshpande/Scrapera)**
 
-- 🌱 I’m interested in Spectral and Temporal Restoration and Active Learning techniques
+- 🌱 I'm interested in strategies for Spectral and Temporal Restoration of Signals, as well as Active Learning.
 
-- 📝 I write articles on **[Medium](https://medium.com/@darshandeshpande)**
+- 📝 I write reports and articles on **[Weights & Biases](https://wandb.ai/darshandeshpande)** | **[Medium](https://medium.com/@darshandeshpande)**
 
 - 📫 Reach me at: **darshan1504@gmail.com**
 
