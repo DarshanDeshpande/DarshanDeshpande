@@ -2,7 +2,7 @@
 <h3 align="center">ML Researcher and a Mentor at TFUG Mumbai</h3>
 <br>
 
-- 🔭 I’m currently working on **[Reproducing Research Papers](https://github.com/DarshanDeshpande/tf-paper-implementations)** and **[Scrapera](https://github.com/DarshanDeshpande/Scrapera)**
+- 🔭 I’m currently working on **[Reproducing Research Papers with JAX](https://github.com/DarshanDeshpande/jax-models)** and **[Scrapera](https://github.com/DarshanDeshpande/Scrapera)**
 
 - 🌱 I'm interested in strategies for Spectral and Temporal Restoration of Signals, as well as Active Learning.
 
