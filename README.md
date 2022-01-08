@@ -8,7 +8,7 @@
 
 - 📝 I write reports and articles on **[Weights & Biases](https://wandb.ai/darshandeshpande)** | **[Medium](https://medium.com/@darshandeshpande)**
 
-- 📫 Reach me at: **darshan1504@gmail.com**
+- 📫 Reach me at: **darshan.g.deshpande@gmail.com**
 
 - ⚡ Fun fact: I am a multicopter enthusiast
 
