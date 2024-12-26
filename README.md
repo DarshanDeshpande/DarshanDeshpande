@@ -26,7 +26,6 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-B7178C?style=flat-square&logo=docker&logoColor=white&color=blue" >
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--Learn-B7178C?style=flat-square&logo=scikit-learn&logoColor=white&color=blue" >
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-007ACC?style=flat-square&logo=mysql&logoColor=white" />
-  <br>
   <img alt="python" src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square&logo=Numpy&logoColor=white" />
